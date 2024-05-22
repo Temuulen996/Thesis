@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714431703607",
+    "project_id": "ethrift-mongolia-54745",
+    "storage_bucket": "ethrift-mongolia-54745.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714431703607:android:87e8a160b959f61f892db2",
+        "android_client_info": {
+          "package_name": "com.temuulennn.Ethriftmob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcxy0yIe3_MpYBr8tkysIj747bNVz4Ei8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
